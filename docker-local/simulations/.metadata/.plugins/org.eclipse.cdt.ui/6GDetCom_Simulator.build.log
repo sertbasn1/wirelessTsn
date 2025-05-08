@@ -1,9 +1,0 @@
-13:38:07 **** Incremental Build of configuration release for project 6GDetCom_Simulator ****
-make MODE=release all 
-cd src && make
-make[1]: Entering directory '/simulations/6GDetCom_Simulator/src'
-make[1]: Nothing to be done for 'all'.
-make[1]: Leaving directory '/simulations/6GDetCom_Simulator/src'
-
-13:38:07 Build Finished. 0 errors, 0 warnings. (took 325ms)
-
