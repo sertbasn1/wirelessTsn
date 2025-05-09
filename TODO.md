@@ -1,4 +1,0 @@
-**TODOs:**
-
-Assigned To | Task
-- ..
